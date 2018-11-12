@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936580898564",
+    "firebase_url": "https://novalbar-329bf.firebaseio.com",
+    "project_id": "novalbar-329bf",
+    "storage_bucket": "novalbar-329bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936580898564:android:f6f035654b3da9b5",
+        "android_client_info": {
+          "package_name": "com.softtar.www.novalbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936580898564-8qn0k91tl7rbjpab8u7vivg5ck545n19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softtar.www.novalbar",
+            "certificate_hash": "b8f4fe76ed28a9b073b1c2425582e210a01c55c3"
+          }
+        },
+        {
+          "client_id": "936580898564-2b7ho0ulhssoqi74thl4fg1cuc1hnml6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvK57XaRcW9BGaAeim_doVj6o4R-VnfWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936580898564-2b7ho0ulhssoqi74thl4fg1cuc1hnml6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
